@@ -78,7 +78,8 @@ select option {
 
 select::-ms-expand {
   display: none;
-  text-align: right;
+  text-align: center;
+
 
 }
 
