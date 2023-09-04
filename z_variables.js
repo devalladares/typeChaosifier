@@ -11,7 +11,7 @@ if (isMobile) {
   TextSize = 500
   barHeight = 400
 } else {
-  mainText = "tC"
+  mainText = "&"
   // mainText = "a"
   TextSize = 750
   barHeight = 430
