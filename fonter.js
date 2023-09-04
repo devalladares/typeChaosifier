@@ -55,6 +55,6 @@ function fonter() {
 
 
 let fNum = 0
-let cText = "tC"
+let cText = "&"
 let fTextx
 let fTexty
