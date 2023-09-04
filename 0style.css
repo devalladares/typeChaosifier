@@ -72,13 +72,13 @@ select {
 
 select option {
   font: 15px 'Martel', serif;
-  text-align: center;
+  text-align: left;
 
 }
 
 select::-ms-expand {
   display: none;
-  text-align: center;
+  text-align: right;
 
 
 }
