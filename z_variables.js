@@ -485,8 +485,8 @@ function mouseFearboi() {
 
 let font;
 let vehicles = []
-let pX = 0
-let pY = 0
+let pX = -100
+let pY = -50
 let b = 230
 let control;
 let info
